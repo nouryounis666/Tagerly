@@ -2,7 +2,7 @@
 {
     public enum PaymentMethod
     {
-        Cash,
+        CreditCard,
 
     }
 }
